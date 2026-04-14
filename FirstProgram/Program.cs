@@ -12,8 +12,8 @@ namespace FirstProgram
             //Output.Test();
             //Variables.Test();
             //TypeCasting.Test();
-            Input.Test();
-
+            //Input.Test();
+            Operators.Test();
         }
     }
 }
