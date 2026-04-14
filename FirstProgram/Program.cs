@@ -11,7 +11,9 @@ namespace FirstProgram
             //Console.WriteLine("Devansh");
             //Output.Test();
             //Variables.Test();
-            TypeCasting.Test();
+            //TypeCasting.Test();
+            Input.Test();
+
         }
     }
 }
