@@ -19,7 +19,8 @@ namespace FirstProgram
             //RandomNum.Test();
             //Hypotenuse.Test();
             //StringUse.Test();
-            Statements.Test();
+            //Statements.Test();
+            LogicalOperators.Test();
         }
     }
 }
