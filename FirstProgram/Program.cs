@@ -10,7 +10,8 @@ namespace FirstProgram
             //Console.WriteLine("Hi, this is");
             //Console.WriteLine("Devansh");
             //Output.Test();
-            Variables.Test();
+            //Variables.Test();
+            TypeCasting.Test();
         }
     }
 }
